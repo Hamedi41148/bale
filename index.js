@@ -7,7 +7,7 @@ const BOT_WEBHOOK = "/endpoint";
 // User Mapping: Telegram Sender → Bale Recipient
 // example: { "123456789": "987654321" } means Telegram user with ID 123456789 will have their files sent to Bale user with ID 987654321
 const USER_MAPPING = {
-  "tg_user_id": "bale_user_id",
+  "5485182134": "125031938",
 };
 
 const MAX_FILE_SIZE = 50 * 1024 * 1024; // 20 MB
