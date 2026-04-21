@@ -1,7 +1,7 @@
 // ==================== Configuration ====================
 
-const BOT_TOKEN = "TELEGRAM_BOT_TOKEN_HERE"; // Replace with your Telegram bot token
-const BALE_BOT_TOKEN = "BALE_BOT_TOKEN_HERE"; // Replace with your Bale bot token
+const BOT_TOKEN = "6552413876:AAERNZGLwq7DYAAoGlQj-Jbqyn9C-cA5Egg"; // Replace with your Telegram bot token
+const BALE_BOT_TOKEN = "1466901730:sfauwB_kvQUKsSCx52GfLlnAqegOAJ2QoH8"; // Replace with your Bale bot token
 const BOT_WEBHOOK = "/endpoint";
 
 // User Mapping: Telegram Sender → Bale Recipient
